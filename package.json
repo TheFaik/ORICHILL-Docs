@@ -1,25 +1,13 @@
 {
   "name": "orichill-docs",
   "version": "1.0.0",
-  "description": "---\r icon: fire-flame-curved\r cover: .gitbook/assets/ORICHILL.png\r coverY: 0\r layout:\r   width: default\r   cover:\r     visible: true\r     size: hero\r   title:\r     visible: true\r   description:\r     visible: false\r   tableOfContents:\r     visible: true\r   outline:\r     visible: true\r   pagination:\r     visible: true\r   metadata:\r     visible: true\r   tags:\r     visible: true\r ---",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TheFaik/ORICHILL-Docs.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/TheFaik/ORICHILL-Docs/issues"
-  },
-  "homepage": "https://github.com/TheFaik/ORICHILL-Docs#readme",
   "devDependencies": {
-    "vitepress": "^1.6.4",
-    "vue": "^3.5.34"
+    "vitepress": "latest",
+    "vue": "latest"
   }
 }
