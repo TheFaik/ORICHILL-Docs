@@ -51,3 +51,4 @@
 
 * [Пользовательское Соглашение](legal/user_agreement.md)
 * [Политика Обработки Персональных Данных](legal/privacy_policy.md)
+

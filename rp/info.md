@@ -20,6 +20,7 @@ icon: memo-circle-info
 
 {% hint style="warning" %}
 Не забывайте, что вы обязаны не выходить за рамки [**Общих Правил**](../main/rules.md) сервера.
-{% endhint %}
+:::
 
 <p align="center"><strong>Мы надеемся, что дружба на нашем сервере станет ещё крепка ❤️</strong></p>
+

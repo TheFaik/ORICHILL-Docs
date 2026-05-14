@@ -30,7 +30,7 @@ icon: shield-check
 Если вам вдруг понадобится больше - обращайтесь к Администрации сервера через открытие тикета на нашем сервере Discord. <br>
 
 <kbd><mark style="color:$success;">**^Рекомендуется**<mark style="color:$success;"></kbd> объяснить причину, по которой вам понадобилось больше количества.
-{% endhint %}
+:::
 
 ## <mark style="color:$primary;">Поддерживаемые блоки и сущности</mark>
 
@@ -88,3 +88,4 @@ icon: shield-check
 \- <kbd>_**Черепаха**_</kbd>
 
 </details>
+

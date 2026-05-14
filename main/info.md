@@ -15,19 +15,19 @@ icon: book-open
 <mark style="color:red;">**`↳`**</mark>**&#x20;Чтобы зайти на&#x20;**<mark style="color:$danger;">**Основной сервер**</mark>**, вам нужно пройти этап&#x20;**<mark style="color:$danger;">**АНКЕТИРОВАННОЙ ВЕРИФИКАЦИИ**</mark>**!**\
 \
 &#xNAN;_`^Для этого, нужно зайти на сервер Discord и открыть анкету. Дальше, администрация сервера пришлёт вам анкету для её заполнения.`_
-{% endhint %}
+:::
 
 {% hint style="info" icon="fire-flame-curved" %}
 <kbd><mark style="color:$primary;">**НЕОБХОДИМАЯ ИНФОРМАЦИЯ:**<mark style="color:$primary;"></kbd>\ <mark style="color:$primary;">**-**</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">◈ |</mark> Сервер <mark style="color:$primary;">**Discord**</mark>: [**\*перейти**](https://discord.orichill.ru/) (_**👈 жмяк)**_\
 <mark style="color:$tint;">**-**</mark> <mark style="color:$tint;"></mark><mark style="color:$tint;">◈ |</mark> IP-Адрес: [<mark style="color:$tint;">**`mc.orichill.ru`**</mark>](#user-content-fn-1)[^1] \
 <mark style="color:$primary;">-</mark> <mark style="color:$primary;">◈</mark> <mark style="color:$primary;">|</mark> Версия: [<mark style="color:$primary;">**`1.21.5 - 26.1.2`**</mark>](#user-content-fn-2)[^2]    \
 <mark style="color:$tint;">**-**</mark> <mark style="color:$tint;">◈ |</mark> Основная версия: [<mark style="color:$tint;">**`1.21.11`**</mark>](#user-content-fn-3)[^3]&#x20;
-{% endhint %}
+:::
 
 {% hint style="success" icon="shield-plus" %}
 <mark style="color:$success;">**`✅ ВНИМАНИЕ ✅`**</mark>\
 <mark style="color:$success;">**`↳`**</mark> <mark style="color:$success;">•</mark>  Можно играть с <mark style="color:$primary;">**`пиратки`**</mark>, так и с <mark style="color:$warning;">**`лицензии`**</mark>.
-{% endhint %}
+:::
 
 ## <mark style="color:$primary;">**Дополнения к вашему клиенту**</mark>
 
@@ -35,7 +35,7 @@ icon: book-open
 <mark style="color:$success;">**`✅ ВНИМАНИЕ ✅`**</mark>\
 <mark style="color:$success;">**`↳`**</mark><mark style="color:$success;">**&#x20;**</mark><mark style="color:$success;">**•**</mark> На нашем сервере вы можете использовать [**Голосовой Чат**.](../mechanics/mechanics/voice-chat.md)\
 <mark style="color:$success;">**`↳`**</mark> <mark style="color:$success;">•</mark> Также вы можете использовать [**Эмоции**](../mechanics/mechanics/emotecraft_installing.md).
-{% endhint %}
+:::
 
 ## <mark style="color:$primary;">**Наш собственный клиент для игры на ORICHILL**</mark>
 
@@ -48,14 +48,14 @@ icon: book-open
 Насчёт минимальных требований, указанных на странице клиента в <kbd><mark style="color:$success;">**Modrinth**<mark style="color:$success;"></kbd>, они были сделаны с учётом использования Шейдеров, поэтому вы можете не обращать внимание на них, если конечно вы их не используете.\
 \
 `💠` Ссылка для скачивания нашего клиента <mark style="color:$primary;">**`ORICHILL Client`**</mark> - [**\*КЛИК** ](https://modrinth.com/modpack/orichill-client) (_**👈 жмяк)**_
-{% endhint %}
+:::
 
 ## <mark style="color:$primary;">**Миры**</mark> <a href="#worldborder" id="worldborder"></a>
 
 {% hint style="info" icon="earth-americas" %}
 <mark style="color:blue;">**`ℹ️ ВНИМАНИЕ ℹ️`**</mark>\
 <mark style="color:blue;">**`↳`**</mark> Во всех мирах используется <mark style="color:blue;">**`Кастомный Генератор`**</mark>.
-{% endhint %}
+:::
 
 * **Стандартный Мир** **-** _<mark style="color:$primary;">**`20000`**</mark> бл._ от нулей в каждую сторону.&#x20;
 * **Нижний Мир** - _<mark style="color:$primary;">**`20000`**</mark> бл._ от нулей в каждую сторону.
@@ -67,7 +67,7 @@ icon: book-open
 <mark style="color:$primary;">**`👾 ВНИМАНИЕ 👾`**</mark>\
 <mark style="color:$primary;">**`↳`**</mark> <mark style="color:$primary;">**`Авто-Рестарт`**</mark> сервера каждые <mark style="color:$primary;">**`12 часов`**</mark>.\
 (без учёта Proxy-сервера)
-{% endhint %}
+:::
 
 ## <mark style="color:$primary;">**Полезные ссылки**</mark>
 
@@ -114,3 +114,4 @@ icon: book-open
 [^2]: Диапазон поддерживаемых версий
 
 [^3]: Основная версия ядра. Рекомендуется играть именно на этой версии.
+

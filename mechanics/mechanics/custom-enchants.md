@@ -8,11 +8,11 @@ icon: book-sparkles
 {% hint style="warning" %}
 <kbd><mark style="color:red;">**‼️ ВНИМАНИЕ ‼️**<mark style="color:red;"></kbd>\
 <kbd><mark style="color:red;">**↳**<mark style="color:red;"></kbd> В данной таблице названия могут несоответствовать в игре! Всё из-за того, что данная информация чар было взято из документации плагина, который может не обновлятся.
-{% endhint %}
+:::
 
 {% hint style="success" %}
 Для точной информации о зачарованиях, используйте команду: <kbd><mark style="color:green;">**/enchlist**<mark style="color:green;"></kbd>
-{% endhint %}
+:::
 
 ## <mark style="color:purple;">Чары</mark>  <a href="#armor-enchantments" id="armor-enchantments"></a>
 
@@ -117,3 +117,4 @@ icon: book-sparkles
 * <kbd>**Тупой**</kbd> — может оглушить врага.
 
 (<kbd>**Оглушение**</kbd> — это комбинация эффектов, которые в целом не позволяют игроку двигаться или атаковать, из-за своей силы оно, очевидно, должно иметь меньшую продолжительность и применять шанс по сравнению с другими)
+

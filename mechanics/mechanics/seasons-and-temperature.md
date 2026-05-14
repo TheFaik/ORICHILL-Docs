@@ -16,7 +16,8 @@ icon: scarf
 
 {% hint style="info" icon="temperature-sun" %}
 _Температура зависит от времени года, как и в реальной жизни :D_&#x20;
-{% endhint %}
+:::
 
 <figure><img src="../../.gitbook/assets/изображение (47).png" alt=""><figcaption></figcaption></figure>
+
 

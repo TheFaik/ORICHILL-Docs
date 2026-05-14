@@ -13,7 +13,7 @@ icon: users
 \
 \- <kbd><mark style="color:red;">**Статы**<mark style="color:red;"></kbd> - Это характеристики вашего персонажа, которые прокачиваются с помощью **навыков**.\
 \- <kbd><mark style="color:blue;">**Навыки/Скиллы**<mark style="color:blue;"></kbd> - Дают эффекты, характеристики и другие бонусы.
-{% endhint %}
+:::
 
 ***
 
@@ -54,6 +54,7 @@ icon: users
 | `❤️` <kbd><mark style="color:$danger;">**Здоровье**<mark style="color:$danger;"></kbd> <mark style="color:red;">**(\*отключено\*)**</mark>                                         | _Увеличивает максимальное здоровье_                                              |
 | `🫨` <kbd><mark style="color:purple;">**Свирепость**<mark style="color:purple;"></kbd>                                                                                             | _Шанс попасть дважды_                                                            |
 | `⛷️` <kbd><mark style="color:$warning;">**Скорость атаки**<mark style="color:$warning;"></kbd> <mark style="color:red;">(\*</mark><mark style="color:red;">**отключено\*)**</mark> | _Увеличивает вашу скорость атаки_                                                |
+
 
 
 

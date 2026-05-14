@@ -12,7 +12,7 @@ icon: ranking-star
 <kbd>**Ответ:**</kbd> Система рангов игроков нужны, чтобы понимать уровень проведённого времени игрока на сервере (то бишь, у игрока, который активно играет на нашем сервере, ранг будет повышатся с его интенсивностью игры на сервере).\
 \
 <kbd>🙌</kbd> Нужно это для того, чтобы выделить опытных игроков от прибывающий новичков.<br>
-{% endhint %}
+:::
 
 ***
 
@@ -22,7 +22,7 @@ icon: ranking-star
 
 {% hint style="success" %}
 После получения ранга <kbd><mark style="color:$primary;">**S**<mark style="color:$primary;"></kbd>, вам автоматически выдаётся привилегия <kbd><mark style="color:orange;">**VETERAN**<mark style="color:orange;"></kbd>
-{% endhint %}
+:::
 
 
 
@@ -35,4 +35,5 @@ icon: ranking-star
 
 
 <kbd>ℹ️</kbd> Чтобы открыть меню рангов, введите команду - <kbd><mark style="color:blue;">**/rank**<mark style="color:blue;"></kbd><br>
+
 

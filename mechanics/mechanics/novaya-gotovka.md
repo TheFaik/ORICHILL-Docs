@@ -10,7 +10,7 @@ icon: utensils
 {% hint style="warning" %}
 <kbd><mark style="color:$warning;">**‼️ВНИМАНИЕ‼️**<mark style="color:$warning;"></kbd>\
 <kbd><mark style="color:$warning;">↳<mark style="color:$warning;"></kbd> Могут имется баги. О них мы вкурсе, но ничего поделать, пока, не можем. Просьба, не сообщать об этих багах!
-{% endhint %}
+:::
 
 ## <mark style="color:$primary;">**КРАФТ КАСТРЮЛИ**</mark>
 
@@ -20,11 +20,11 @@ icon: utensils
 
 {% hint style="success" %}
 Порядок ингредиентов не имеет значения.
-{% endhint %}
+:::
 
 {% hint style="warning" %}
 Любая комбинация, не соответствующая рецепту, приводит к Отвратительному Блюду.
-{% endhint %}
+:::
 
 <details>
 
@@ -59,4 +59,5 @@ icon: utensils
 27. <kbd>**Сладкие ягоды**</kbd> <mark style="color:$warning;">**+**</mark> <kbd>**Молоко**</kbd> <mark style="color:$success;">**=**</mark> <kbd>**Ягодное молоко**</kbd>
 
 </details>
+
 

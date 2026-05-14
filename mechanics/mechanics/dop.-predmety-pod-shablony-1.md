@@ -9,7 +9,7 @@ icon: note-sticky
 {% hint style="success" %}
 <kbd><mark style="color:$success;">**!! ВНИМАНИЕ !!**<mark style="color:$success;"></kbd>\
 <mark style="color:$success;">↳</mark> Начиная с версии <kbd>**1.21.2+**</kbd>, моды <kbd>**CIT Resewn**</kbd>, <kbd>**Variants-CIT**</kbd> больше не нуждаются в установке.&#x20;
-{% endhint %}
+:::
 
 На нашем сервере имеется датапак, который добавляет возможность использовать шаблоны на предметы всех видов <kbd>**Мечей**</kbd>, <kbd>**Топоров**</kbd>, <kbd>**Кирок**</kbd>, <kbd>**Лопат**</kbd>, <kbd>**Мотыг**</kbd>, <kbd>**Копий**</kbd>   <kbd>**Арбалетов**</kbd>.
 
@@ -26,3 +26,4 @@ icon: note-sticky
 <figure><img src="../../.gitbook/assets/7d6ee5a3c91d94c27df4df0339c7dbebc8c46b48.webp" alt=""><figcaption><p>Лук</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/a32895be7b8a519d5e06013d6c68b8827d336257.webp" alt=""><figcaption><p>Арбалет</p></figcaption></figure>
+

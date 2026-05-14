@@ -4,9 +4,9 @@ icon: clipboard-question
 
 # Квесты
 
-{% hint style="info" %}
+::: info
 После каждого прохождения квеста, он будет доступен через <kbd>_<mark style="color:$primary;">**24 часа**</mark>_</kbd>.
-{% endhint %}
+:::
 
 ## <mark style="color:$primary;">Информация про квесты</mark>
 
@@ -23,5 +23,6 @@ icon: clipboard-question
 
 {% hint style="info" icon="square-info" %}
 Для просмотра квестов, используйте команду: <kbd><mark style="color:$primary;">**/quest**<mark style="color:$primary;"></kbd>, либо через меню сервера: <kbd><mark style="color:$primary;">**/menu**<mark style="color:$primary;"></kbd>
-{% endhint %}
+:::
+
 

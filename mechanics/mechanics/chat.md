@@ -17,3 +17,4 @@ icon: comment-lines
 <figure><img src="../../.gitbook/assets/изображение (55).png" alt=""><figcaption><p>Сообщение из Локального Чата</p></figcaption></figure>
 
 <mark style="color:$primary;">**`/msg | /m [ник_игрока] "сообщение"`**</mark> — отправит ваше сообщение только указанному игроку.<br>
+

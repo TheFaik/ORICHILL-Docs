@@ -8,7 +8,7 @@ icon: artstation
 <kbd><mark style="color:$danger;">**‼️ ВНИМАНИЕ ‼️**<mark style="color:$danger;"></kbd>\
 <kbd><mark style="color:red;">**↳**<mark style="color:red;"></kbd>**&#x20;Кастомные мобы в Эндер Мире всегда будут агрессивны к вам!** \
 &#x20;   <mark style="color:$danger;">**`^`**</mark> Независим&#x43E;**,** посмотрели ли вы им в глаза или нет.
-{% endhint %}
+:::
 
 > _"Некоторые обеспокоенные Эндермены эволюционировали из-за не справедливости к ним..._ \
 > _Это яростные бойцы, которые неравнодушны к новым поситителям Эндер Мира, потому они охотяться за всеми игроками, даже если тот не смотрел им в глаза._ \
@@ -83,4 +83,5 @@ icon: artstation
 <figure><img src="../../.gitbook/assets/2025-04-24_19.57.05.png" alt="" width="375"><figcaption><p><strong>Прокачанный Эндер Страйдер</strong></p></figcaption></figure>
 
 </details>
+
 

@@ -59,7 +59,7 @@ icon: book
 <kbd><mark style="color:red;">**‼️ ВНИМАНИЕ ‼️**<mark style="color:red;"></kbd>\
 <kbd><mark style="color:red;">↳<mark style="color:red;"></kbd> _**Мы только начали работу над интеграцией плагина WorldGuard в нашу экосистему/эргономику, а потому не весь вики и сервер подготовлены к его использованию.**_ \
 _**В рамках того, что у нас DEV-версия сервера - мы постепенно решим данную проблему. Следите за новостям 💕**_
-{% endhint %}
+:::
 
 <table><thead><tr><th align="center">Команды</th><th align="center">Описание</th><th data-hidden></th></tr></thead><tbody><tr><td align="center"><mark style="color:$primary;"><strong><code>/rg</code></strong></mark></td><td align="center"></td><td></td></tr><tr><td align="center"><mark style="color:$primary;"><strong><code>/rg claim</code></strong></mark></td><td align="center">создание своего региона</td><td></td></tr><tr><td align="center"><mark style="color:$primary;"><strong><code>/rg remove</code></strong></mark></td><td align="center">удаление своего региона</td><td></td></tr><tr><td align="center"><mark style="color:$primary;"><strong><code>/rg info</code></strong></mark></td><td align="center"></td><td></td></tr><tr><td align="center"></td><td align="center"></td><td></td></tr><tr><td align="center"></td><td align="center"></td><td></td></tr></tbody></table>
 
@@ -70,4 +70,5 @@ _**В рамках того, что у нас DEV-версия сервера - 
 
 
 ## &#x20;
+
 

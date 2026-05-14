@@ -127,3 +127,4 @@ icon: lightbulb-gear
 
 <figure><img src="../../.gitbook/assets/изображение (16).png" alt=""><figcaption><p>созд. крафт</p></figcaption></figure>
 
+

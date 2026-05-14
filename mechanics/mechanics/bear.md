@@ -56,14 +56,14 @@ icon: beer-mug
 {% hint style="success" %}
 <kbd><mark style="color:$success;">**!! ВНИМАНИЕ !!**<mark style="color:$success;"></kbd>\
 <kbd><mark style="color:$success;">↳<mark style="color:$success;"></kbd> Чтобы узнать время брожения ингредиентов - кликните <kbd><mark style="color:$success;">**ЧАСАМИ**<mark style="color:$success;"></kbd> по котлу.
-{% endhint %}
+:::
 
 ### <kbd><mark style="color:$primary;">**Дистилляция**<mark style="color:$primary;"></kbd> <a href="#distillyaciya" id="distillyaciya"></a>
 
 {% hint style="warning" %}
 <kbd><mark style="color:$warning;">**!! ВНИМАНИЕ !!**<mark style="color:$warning;"></kbd>\
 <kbd><mark style="color:$warning;">↳<mark style="color:$warning;"></kbd> Некоторые рецепты <kbd><mark style="color:$warning;">**не требуют**<mark style="color:$warning;"></kbd> дистилляции.
-{% endhint %}
+:::
 
 **Дистилляция** — процесс перегонки напитка в зелье варке.
 
@@ -94,7 +94,7 @@ icon: beer-mug
 
 {% hint style="success" %}
 Вы можете удалить [<kbd><mark style="color:$warning;">Знак<mark style="color:$warning;"></kbd>](#user-content-fn-1)[^1] из <kbd>_Большой Бочки_</kbd> после его создания.
-{% endhint %}
+:::
 
 ### <mark style="color:$primary;">**Выдержка**</mark> <a href="#vyderzhka" id="vyderzhka"></a>
 
@@ -129,3 +129,4 @@ icon: beer-mug
 * При выходе из системы у игрока могут возникнуть трудности с доступом к своему персонажу, поэтому в некоторых входах вскоре после этого может быть отказано.
 
 [^1]: Табличка для создания бочки
+

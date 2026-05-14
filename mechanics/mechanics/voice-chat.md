@@ -11,7 +11,7 @@ icon: microphone-lines
 <kbd><mark style="color:$warning;">**‼️ ВНИМАНИЕ ‼️**<mark style="color:$warning;"></kbd>\
 <kbd><mark style="color:$warning;">↳<mark style="color:$warning;"></kbd> <kbd><mark style="color:$danger;">**ДАННЫЙ МОД НЕОБЯЗАТЕЛЬНЫЙ!**<mark style="color:$danger;"></kbd>\
 Можно, как на обычном сервере - использовать <mark style="color:$primary;">**`обычный чат`**</mark>.
-{% endhint %}
+:::
 
 Для того чтобы получить возможность общаться с игроками при помощи голоса, вам необходимо скачать мод <mark style="color:$primary;">**`SimpleVoiceChat`**</mark>. <br>
 
@@ -25,3 +25,4 @@ icon: microphone-lines
 ## <mark style="color:$primary;">**Группы**</mark>
 
 Чтобы открыть меню групп, нажмите на <mark style="color:purple;">**`G`**</mark>. <br>
+

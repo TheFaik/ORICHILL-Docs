@@ -34,3 +34,4 @@ icon: gingerbread-man
 <mark style="color:$primary;">**`/eas snap angle`**</mark> - изменить шаг привязки угла\
 <mark style="color:$primary;">**`/eas snap move`**</mark> - изменить шаг привязки позиции\
 <mark style="color:$primary;">**`/eas yap`**</mark> - изменить направление взгляда выбранной сущности
+

@@ -40,4 +40,5 @@ layout:
 {% hint style="info" icon="thumbtack-angle" %}
 <mark style="color:$primary;">**`👾 ВНИМАНИЕ 👾`**</mark>\
 <mark style="color:$primary;">**`↳`**</mark> \*_Подметим, что определённой тематики у сервера нет, т.к. мы сами не знаем, в какую сферу он больше всего направлен\*_
-{% endhint %}
+:::
+
